@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# autify_test
-Technical assignment for Autify Interview
-=======
 # Autify Test
 ## Function
 Fetches metadata and html source code of url given as an argument. 
@@ -13,5 +9,3 @@ Or if you want to run it without metadata ```python3 fetch.py https://www.facebo
 ### With Docker
 Build the Dockerfile using ```docker build --tag [tag] . ```
 then run the image using the tag you gave above.
-
->>>>>>> master

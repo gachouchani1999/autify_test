@@ -1,5 +1,4 @@
 
-from os import link
 import urllib.request
 import sys
 import datetime
